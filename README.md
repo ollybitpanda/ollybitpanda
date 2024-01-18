@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
         <h1>ollybitpanda Github Profile</h1>
-        </title>
 </head>
 
 <body>
@@ -21,6 +19,13 @@
         <li>⚡ Fun fact: I have mad respect for engineers, it's not as easy as building a button 🤘</li>
     </ul>
 
+
+<h4>Find out more about me</h4>
+<ul>
+<li>LinkedIn <href>https://www.linkedin.com/in/oliver-sinclair/</href></li>
+<li>Bitpanda <href></href>https://www.bitpanda.com/en/career</li>
+    
+</ul>
     <!---
     ollybitpanda/ollybitpanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     You can click the Preview link to take a look at your changes.
