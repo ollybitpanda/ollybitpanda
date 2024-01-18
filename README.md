@@ -4,12 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ollybitpanda Profile</title>
+    <title>
+        <h1>ollybitpanda Github Profile</h1>
+        </title>
 </head>
 
 <body>
 
-  <h1>👋 Hi, I’m @ollybitpanda</h1>
+  <h3>👋 Hi, I’m @ollybitpanda</h3>
     <ul>
         <li>👀 I’m interested in learning about Swift & JS (I'm also a Tech Recruiter 😇)</li>
         <li>🌱 I’m currently learning Swift</li>
