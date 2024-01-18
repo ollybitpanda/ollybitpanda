@@ -22,8 +22,8 @@
 
 <h4>Find out more about me</h4>
 <ul>
-<li>LinkedIn <href>https://www.linkedin.com/in/oliver-sinclair/</href></li>
-<li>Bitpanda <href></href>https://www.bitpanda.com/en/career</li>
+<li><a href="https://www.linkedin.com/in/oliver-sinclair/">LinkedIn</a></li>
+<li><a href="https://www.bitpanda.com/en/career/">Bitpanda</li>
     
 </ul>
     <!---
